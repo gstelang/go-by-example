@@ -1,5 +1,6 @@
 # VS CODE 
 
+```
 Tools environment: GOPATH=/Users/gtelang/go
 Installing 17 tools at /Users/gtelang/go/bin in module mode.
   gocode
@@ -29,8 +30,9 @@ Installing golang.org/x/tools/cmd/gorename (/Users/gtelang/go/bin/gorename) SUCC
 Installing github.com/cweill/gotests/... (/Users/gtelang/go/bin/gotests) SUCCEEDED
 Installing github.com/fatih/gomodifytags (/Users/gtelang/go/bin/gomodifytags) SUCCEEDED
 Installing github.com/josharian/impl (/Users/gtelang/go/bin/impl) SUCCEEDED
+```
 
-to install go paths
+to install gopkgs
 ```
  go get github.com/uudashr/gopkgs/v2/cmd/gopkgs
 ```
