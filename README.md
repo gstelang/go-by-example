@@ -28,3 +28,23 @@ fmt.Println((true && true)
 
 ```
 * Variables
+
+```
+var x string = "Hello"
+x := "Hello" // type inference
+y := 5.  // type inference
+Scope (Declare outside)
+const x string = "Hello" // constants
+// Multiple variables
+var (
+  a = 5
+  b = 10
+)
+fmt.println(`
+1
+2
+3
+`)
+
+```
+
